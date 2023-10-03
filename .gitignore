@@ -1,0 +1,14 @@
+.dart_tool
+.idea
+android
+.vscode
+build
+ios
+linux
+macos
+test
+web
+windows
+.flutter-plugins
+.flutter-plugins-dependencies
+analysis_options.yaml
